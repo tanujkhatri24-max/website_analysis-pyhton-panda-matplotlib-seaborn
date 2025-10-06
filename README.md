@@ -8,16 +8,27 @@ This project focuses on analyzing website performance using Python.
 I collected and processed website data to evaluate key performance indicators (KPIs) such as page load time, bounce rate, and user engagement.  
 The analysis helps identify areas for optimization and improved user experience.
 
-## Problem Statement
+## Problem Statement/solved
 Many websites face performance issues due to slow loading, unoptimized content, and poor traffic management.  
 This project aims to detect these issues using data analytics and provide actionable insights.
+1) What patterns or trends can you observe in website sessions and users over
+time?
+2) Which marketing channel brought the highest number of users to the website,
+and how can we use this insight to improve traffic from other sources?
+3) Which channel has the highest average engagement time, and what does that
+tell us about user behavior and content effectiveness?
+4) Which channels are driving more engaged sessions compared to non-engaged
+ones, and what strategies can improve engagement in underperforming
+channels?
+5) At what hours of the day does each channel drive the most traffic?
+6) Is there any correlation between high traffic (sessions) and high engagement
+rate over time?
+
 
 ## Dataset
 The dataset used in this project includes website traffic metrics such as page views, session duration, bounce rate, and traffic sources.  
 
-
-## Tools and Technologies
-- Python  
+  
 - Pandas (Data cleaning and analysis)  
 - Matplotlib & Seaborn (Data visualization)
 - seaborn
