@@ -54,6 +54,6 @@ The dataset used in this project includes website traffic metrics such as page v
 
 | Name | Email | LinkedIn | GitHub |
 |------|-------|----------|--------|
-| Tanuj Singh  | [tanujkhatri31@gmail.com] | https://www.linkedin.com/in/tanuj-singh-7b70ba240/ |  |
+| Tanuj Singh  | [tanujkhatri31@gmail.com] | https://www.linkedin.com/in/tanuj-singh-7b70ba240/ | https://github.com/tanujkhatri24-max |
 ```
 
